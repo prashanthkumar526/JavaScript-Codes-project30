@@ -1,0 +1,9 @@
+@media screen (width: 600px){
+    body{
+        font-size: 12pt;
+
+}
+ footer{
+    display:none;
+ }
+}
